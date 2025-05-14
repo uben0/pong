@@ -1,0 +1,19 @@
+#ifndef KLibrary_HEADER_DEFINED
+#define KLibrary_HEADER_DEFINED
+#include "KCollide.hpp"
+#include "KColor.hpp"
+#include "KControl.hpp"
+#include "KEvent.hpp"
+#include "KFont.hpp"
+#include "KKey.hpp"
+#include "KRect.hpp"
+#include "KSetting.hpp"
+#include "KSocket.hpp"
+#include "KSocketTcp.hpp"
+#include "KSocketUdp.hpp"
+#include "KTerm.hpp"
+#include "KText.hpp"
+#include "KTimer.hpp"
+#include "KTool.hpp"
+#include "KWindow.hpp"
+#endif
